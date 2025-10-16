@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 # Replace with your API key
-API_KEY = "AIzaSyCMETYE1qmlMKzIms8ZGrU7qLwAIo6XkLs"
+API_KEY = "youtubeAPI"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
@@ -31,3 +31,4 @@ for item in response['items']:
 
 df = pd.DataFrame(data)
 print(df)
+
