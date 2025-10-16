@@ -1,9 +1,10 @@
 # config.py
 
-YOUTUBE_API_KEY = "AIzaSyCMETYE1qmlMKzIms8ZGrU7qLwAIo6XkLs"
+YOUTUBE_API_KEY = "YOUR API"
 
-MONGO_URI = "mongodb+srv://youtube_user:youtubeuser123@cluster0.kwl4xjg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "MONGOURL"
 
 DB_NAME = "YouTubeData"
 COLLECTION_NAME = "TrendingVideos"
 REGION_CODE = "IN"  
+
