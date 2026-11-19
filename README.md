@@ -1,4 +1,5 @@
 # Youtube-Trending-Videos-Data-Pipeline
+you can check the prototype here : https://ai.studio/apps/3071ba77-ca1a-4585-9ea3-83afade55223
 🎥 YouTube Trending ETL Dashboard
 
 An end-to-end Data Engineering & Visualization project that extracts trending YouTube video data using the YouTube Data API, stores it in MongoDB Atlas, and visualizes insights using an interactive Streamlit Dashboard.
